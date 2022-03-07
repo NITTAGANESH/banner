@@ -1,0 +1,131 @@
+.main {
+    background-color: gray;
+    width: 1000px;
+    margin: 1px auto;
+    text-indent: 10px;
+    height: 2000px;
+}
+
+.img {
+    width: 20%;
+    height: 20%;
+    position: relative;
+    top: 60px;
+    left: 180px;
+}
+
+.img1 {
+    width: 10%;
+    height: 20%;
+    position: relative;
+    margin-left: 180px;
+    margin-top: 5px;
+}
+
+.fires {
+    width: 20%;
+    height: 30%;
+    margin-left: 100px;
+}
+
+.juice {
+    width: 20%;
+    height: 30%;
+    margin-left: 150px;
+}
+
+.tv {
+    width: 20%;
+    height: 30%;
+    position: relative;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.cycle {
+    width: 20%;
+    height: 30%;
+}
+
+.money {
+    width: 20%;
+    height: 40px;
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+.parent1,
+.parent2 {
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.parent3 {
+    display: flex;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin: 0px 0px 10x 0px;
+}
+
+.parent {
+    position: relative;
+    bottom: 300px;
+}
+
+.div3,
+.div4,
+.div7,
+.div8 {
+    margin: 20px 100px 20px 100px;
+    color: white
+}
+
+.div1 {
+    color: white;
+    background-color: darkorange;
+}
+
+.div2 {
+    color: white;
+    background-color: aqua;
+}
+
+.div3 {
+    background-color: red;
+}
+
+.div4 {
+    background-color: rgb(14, 14, 245);
+}
+
+.div5 {
+    background-color: rgb(197, 57, 57);
+    color: white;
+}
+
+.div6 {
+    background-color: darkgoldenrod;
+    width: 50%;
+    color: white;
+}
+
+.div7 {
+    background-color: rgb(32, 109, 197);
+}
+
+.div8 {
+    background-color: darkgoldenrod;
+    height: 200%;
+}
+
+.div9 {
+    background-color: rgb(16, 118, 212);
+    color: white;
+}
+
+.div10 {
+    background-color: rgb(156, 65, 65);
+    color: white;
+    width: 55%;
+}
